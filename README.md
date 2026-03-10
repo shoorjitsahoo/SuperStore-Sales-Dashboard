@@ -15,10 +15,10 @@ The dashboard helps identify:
 ## Dashboard Preview
 
 ### Page 1
-![Dashboard Preview](dashboard_preview_1.png)
+![Dashboard Preview](Dashboard_Preview_1.png)
 
 ### Page 2
-![Dashboard Preview](dashboard_preview_2.png)
+![Dashboard Preview](Dashboard_Preview_2.png)
 
 ---
 
