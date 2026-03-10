@@ -18,7 +18,7 @@ The dashboard helps identify:
 ![Dashboard Preview](https://github.com/shoorjitsahoo/SuperStore-Sales-Dashboard/blob/main/Dashboard%20Preview%201.png?raw=true)
 
 ### Page 2
-![Dashboard Preview](dashboard_preview_2.png)
+![Dashboard Preview](https://github.com/shoorjitsahoo/SuperStore-Sales-Dashboard/blob/main/Dashboard%20preview%202.png?raw=true)
 
 
 ---
